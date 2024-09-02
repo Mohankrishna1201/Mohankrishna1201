@@ -1,8 +1,9 @@
 # 💫 About Me:
-## Hi👋, I am Kattamuri Mohan Krishna
-### A passionate Fullstack Developer and UI/UX Designer
+##                                                                             Hi👋, I am Kattamuri Mohan Krishna
+###                                                                    A passionate Fullstack Developer and UI/UX Designer
 🔭 I’m currently working on Code4fun<br>👯 I’m looking to collaborate on Fullstack web apps, React Native Apps, Figma<br>🌱 I’m currently learning DSA,IOT<br>💬 Ask me about React,UI/UX,DSA,Javascript,Node,Express<br>✉️ Reach me out on kattamurimohankrishna.2004@gmail.com<br>🔗Portolio https://www.kattamuri.me/
-
+---
+[![](https://visitcount.itsvg.in/api?id=Mohankrishna1201&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kattamuri-mohankrishna-62a3b3239) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohan120104) 
@@ -20,7 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mohankrishna1201&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohankrishna1201&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
