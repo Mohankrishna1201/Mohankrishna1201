@@ -1,7 +1,7 @@
 # 💫 About Me:
 ##                                                                             Hi👋, I am Kattamuri Mohan Krishna
 ###                                                                    A passionate Fullstack Developer and UI/UX Designer
-🔭 I’m currently working on Code4fun<br>👯 I’m looking to collaborate on Fullstack web apps, React Native Apps, Figma<br>🌱 I’m currently learning DSA,IOT<br>💬 Ask me about React,UI/UX,DSA,Javascript,Node,Express<br>✉️ Reach me out on kattamurimohankrishna.2004@gmail.com<br>🔗Portolio https://www.kattamuri.me/
+🔭 I’m currently working on Code4fun<br>👯 I’m looking to collaborate on Fullstack web apps, React Native Apps, Figma<br>🌱 I’m currently learning Devops,IOT<br>💬 Ask me about React,UI/UX,DSA,Javascript,Node,Express<br>✉️ Reach me out on kattamurimohankrishna.2004@gmail.com<br>🔗Portolio https://www.kattamuri.me/
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohankrishna1201&icon=0&color=1)](https://visitcount.itsvg.in)
 
